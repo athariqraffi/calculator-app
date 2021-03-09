@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.exe
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.deps.json
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.json
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+C:\Users\ACER\source\repos\CS_01\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.genruntimeconfig.cache
